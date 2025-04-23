@@ -1,7 +1,9 @@
 # Block
+## Adobe
 lcs-cops.adobe.io
 
 # Allow
+## lk21.de
 @@||lk21static.buzz^
 @@||comment.xx1.red^
 @@||playeriframe.lol^
