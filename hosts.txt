@@ -12,4 +12,4 @@ lcs-cops.adobe.io
 @@||globalcdn40.buzz^
 @@||idocdn.com^
 @@||nontondrama.click^
-
+@@||giveupthefight.icu^
