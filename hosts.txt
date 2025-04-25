@@ -13,3 +13,4 @@ lcs-cops.adobe.io
 @@||idocdn.com^
 @@||nontondrama.click^
 @@||giveupthefight.icu^
+@@||amino01.click^
