@@ -4,6 +4,7 @@ lcs-cops.adobe.io
 
 # Allow
 ## lk21.de
+@@||amino02.lol^
 @@||lk21static.buzz^
 @@||comment.xx1.red^
 @@||playeriframe.lol^
