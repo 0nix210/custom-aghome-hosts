@@ -8,7 +8,7 @@ lcs-cops.adobe.io
 @@||comment.xx1.red^
 @@||playeriframe.lol^
 @@||short.icu^
-@@||globalcdn40.buzz^
+@@||globalcdn*.buzz^
 @@||idocdn.com^
 @@||nontondrama.click^
 @@||cloud-x-21-srb.*^
