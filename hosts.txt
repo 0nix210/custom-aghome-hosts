@@ -4,7 +4,6 @@ lcs-cops.adobe.io
 
 # Allow
 ## lk21.de
-@@||amino*.*^
 @@||lk21static.buzz^
 @@||comment.xx1.red^
 @@||playeriframe.lol^
@@ -12,6 +11,4 @@ lcs-cops.adobe.io
 @@||globalcdn40.buzz^
 @@||idocdn.com^
 @@||nontondrama.click^
-@@||giveupthefight.*^
-@@||laydownyourarms.*^
-@@||throwupyourarms.*^
+@@||cloud-x-21-srb.*^
