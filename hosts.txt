@@ -4,15 +4,14 @@ lcs-cops.adobe.io
 
 # Allow
 ## lk21.de
-@@||amino02.lol^
+@@||amino*.*^
 @@||lk21static.buzz^
 @@||comment.xx1.red^
 @@||playeriframe.lol^
-@@||amino01.lol^
 @@||short.icu^
 @@||globalcdn40.buzz^
 @@||idocdn.com^
 @@||nontondrama.click^
-@@||giveupthefight.icu^
-@@||amino01.click^
-@@||laydownyourarms.icu^
+@@||giveupthefight.*^
+@@||laydownyourarms.*^
+@@||throwupyourarms.*^
